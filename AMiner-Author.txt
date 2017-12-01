@@ -1,0 +1,99 @@
+#index 1
+#n O. Willum
+#a Res. Center for Microperipherik, Technische Univ. Berlin, Germany
+#pc 1
+#cn 0
+#hi 0
+#pi 0.0000
+#upi 0.0000
+#t new product;product group;active product;long product lifetime;old product;product generation;new technology;environmental benefit;environmental choice;environmental consequence
+
+#index 2
+#n D. Wei
+#a Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+#pc 1
+#cn 0
+#hi 0
+#pi 0.0000
+#upi 0.0000
+#t lowpass filter;multidimensional product filter;orthonormal filterbanks;product filter;new approach;novel approach;challenging problem;iterative quadratic programming;negligible reconstruction error;spectral factorization
+
+#index 3
+#n Wenhu Wu
+#a 
+#pc 1
+#cn 0
+#hi 0
+#pi 0.0000
+#upi 0.0000
+#t MAP adaptation;adaptation data;adaptation utterance;novel speaker adaptation method;speaker adaptation;speaker adaptation model;MAP estimation;speaker independent model;distance weighted regression;model neighbor
+
+#index 4
+#n Zhiyuan Zeng
+#a College of Geography Science, Nanjing Normal University, Nanjing 210097, China
+#pc 1
+#cn 0
+#hi 0
+#pi 0.0000
+#upi 0.0000
+#t normalized difference vegetation index;ratio vegetation index;vegetation coverage calculation;vegetation fractional coverage;vegetation index;VI-VFC model;VI-VFC modelling;VI-VFC relationship;VI-VFC relationship model;EP choice
+
+#index 5
+#n Erzen Hyko
+#a Department of Computer Science, University of Düsseldorf, Düsseldorf, Germany 40225
+#pc 1
+#cn 0
+#hi 0
+#pi 0.0000
+#upi 0.0000
+#t information content;Spatio-Temporal Information Content;trajectory information;arbitrary trajectory;discrete trajectory;movement model;movement prediction model;spatio-temporal data;state-of-the art compression scheme;Arithmetic Coding
+
+#index 6
+#n S. Wanstedt
+#a 
+#pc 1
+#cn 0
+#hi 0
+#pi 0.0000
+#upi 0.0000
+#t average quality;speech quality;long samplesSpeech quality;subjective quality;long speech segment;short speech sample;speech form;common objective method;objective measurement;subjective listening test
+
+#index 7
+#n Lis Weimar
+#a AmsterdamAmstelland Police Force
+#pc 1
+#cn 0
+#hi 0
+#pi 0.0000
+#upi 0.0000
+#t GSS transition;actionable item;case study;GSS diffusion;Dutch Police Force;Dutch Police ForceDespite;technology user;Technology Transition;useful model
+
+#index 8
+#n Chih-Yung Wen
+#a National ChengKung University, Department of Aeronautics and Astronautics, 701, Tainan, Taiwan
+#pc 3
+#cn 1
+#hi 1
+#pi 0.2500
+#upi 0.1458
+#t diaphragm deflection;magnetic force;flexible PDMS diaphragm;flexible diaphragm;electromagnetic actuator;micro coil;PDMS diaphragm;circular PDMS diaphragm;diaphragm displacement;diaphragm strength
+
+#index 9
+#n An-Yeu Wu
+#a 
+#pc 1
+#cn 0
+#hi 0
+#pi 0.0000
+#upi 0.0000
+#t direct CSD approach;proposed MDECOR transformation;CSD number;CSD quantization;direct CSD quantization;MDECOR transformation;aforementioned quantization problem;modified decorrelating transformation;new design approach;serious quantization error
+
+#index 10
+#n  Anon et al
+#a Wayne State University;Anonymous, USA;A Commercial Submission from DEALTE, Sauletekio al. 15, LT10224 Vilnius, Lithuania
+#pc 47
+#cn 67
+#hi 3
+#pi 12.2500
+#upi 19.9959
+#t security consultant;network security;security book;security issue;computer science;Internet security;Linux security;Linux security book;Macintosh security;Web application security
